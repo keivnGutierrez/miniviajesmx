@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/miniviajesmx/static/css/main.a09b7432.chunk.css",
+    "main.js": "/miniviajesmx/static/js/main.bf12552c.chunk.js",
+    "main.js.map": "/miniviajesmx/static/js/main.bf12552c.chunk.js.map",
+    "runtime-main.js": "/miniviajesmx/static/js/runtime-main.35d00a6f.js",
+    "runtime-main.js.map": "/miniviajesmx/static/js/runtime-main.35d00a6f.js.map",
+    "static/js/2.bbd70545.chunk.js": "/miniviajesmx/static/js/2.bbd70545.chunk.js",
+    "static/js/2.bbd70545.chunk.js.map": "/miniviajesmx/static/js/2.bbd70545.chunk.js.map",
+    "static/js/3.98cc4a72.chunk.js": "/miniviajesmx/static/js/3.98cc4a72.chunk.js",
+    "static/js/3.98cc4a72.chunk.js.map": "/miniviajesmx/static/js/3.98cc4a72.chunk.js.map",
+    "index.html": "/miniviajesmx/index.html",
+    "static/css/main.a09b7432.chunk.css.map": "/miniviajesmx/static/css/main.a09b7432.chunk.css.map",
+    "static/js/2.bbd70545.chunk.js.LICENSE.txt": "/miniviajesmx/static/js/2.bbd70545.chunk.js.LICENSE.txt",
+    "static/media/app.06c97267.svg": "/miniviajesmx/static/media/app.06c97267.svg",
+    "static/media/facebook.3f7115f9.svg": "/miniviajesmx/static/media/facebook.3f7115f9.svg",
+    "static/media/hacker.546bf8c8.svg": "/miniviajesmx/static/media/hacker.546bf8c8.svg",
+    "static/media/instagram.30b397e6.svg": "/miniviajesmx/static/media/instagram.30b397e6.svg",
+    "static/media/letra-x.f5457199.svg": "/miniviajesmx/static/media/letra-x.f5457199.svg",
+    "static/media/logo.7b15a3af.svg": "/miniviajesmx/static/media/logo.7b15a3af.svg",
+    "static/media/menu.de21b81a.svg": "/miniviajesmx/static/media/menu.de21b81a.svg",
+    "static/media/metodo-de-pago.40f2b4f1.svg": "/miniviajesmx/static/media/metodo-de-pago.40f2b4f1.svg",
+    "static/media/planes.6ae00151.svg": "/miniviajesmx/static/media/planes.6ae00151.svg",
+    "static/media/telefono.ff0c61f4.svg": "/miniviajesmx/static/media/telefono.ff0c61f4.svg",
+    "static/media/trip.40983542.svg": "/miniviajesmx/static/media/trip.40983542.svg",
+    "static/media/whatsapp.ab1d72fa.svg": "/miniviajesmx/static/media/whatsapp.ab1d72fa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d00a6f.js",
+    "static/js/2.bbd70545.chunk.js",
+    "static/css/main.a09b7432.chunk.css",
+    "static/js/main.bf12552c.chunk.js"
+  ]
+}
